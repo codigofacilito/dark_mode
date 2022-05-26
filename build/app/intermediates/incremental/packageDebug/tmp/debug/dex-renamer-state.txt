@@ -1,0 +1,4 @@
+#Wed May 25 19:08:02 CDT 2022
+base.0=/Users/marines/Documents/Flutter/proyectos/workshop_dark_mode/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

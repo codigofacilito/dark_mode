@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/workshop_dark_mode/BuildConfig.java
+ com.example.workshop_dark_mode.BuildConfig
